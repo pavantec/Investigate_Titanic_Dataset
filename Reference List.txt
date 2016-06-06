@@ -1,0 +1,7 @@
+http://pandas.pydata.org/pandas-docs/stable/
+
+Pandas Documentation to refer syntax for pandas functions/objects
+
+http://matplotlib.org/1.5.1/contents.html
+
+matplotlib documentation to create scatterplot
